@@ -13,7 +13,7 @@ Usage:
 
 Disclaimer:
 
-    PearsonRipper, python script to download books available at Pearson Library.
+    PearsonRipper, Python script to download books available at Pearson Library.
     Copyright (C) 2016  Kenneth Luján R.
 
     This program is free software: you can redistribute it and/or modify
