@@ -11,6 +11,8 @@ Usage:
 
 
 
+Disclaimer:
+
     PearsonRipper, python script to download books available at Pearson Library.
     Copyright (C) 2016  Kenneth Luján R.
 
