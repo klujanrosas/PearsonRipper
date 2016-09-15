@@ -52,9 +52,9 @@ def downloadBook(isbninput, paginas):
         attempts=3
 
 
-__author__ = 'xlr8coding'
+__author__ = 'hexc0der'
 
-parser = argparse.ArgumentParser(description='Script para "ripear" libros de Pearson. by xlr8coding.')
+parser = argparse.ArgumentParser(description='Script para "ripear" libros de Pearson. by hexc0der.')
 parser.add_argument('-isbn', '--isbn', help='Codigo ISBN', required=True)
 parser.add_argument('-paginas','--paginas', help='Numero de Paginas', required=True)
 args = parser.parse_args()
